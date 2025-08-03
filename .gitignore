@@ -13,9 +13,12 @@ erpnext/docs/current
 __pycache__
 *~
 .idea/
-.vscode/
 .helix/
 node_modules/
 .backportrc.json
 # Aider AI Chat
 .aider*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
